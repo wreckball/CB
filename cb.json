@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "standards":[
+        {
+                "Standard": "STD-01",
+                "Threshold": "85",
+                "Scan_Type": "FOSS",
+                "Severe": "25",
+                "Critical": "20",
+                "Moderate": "10"
+        }]
+}
